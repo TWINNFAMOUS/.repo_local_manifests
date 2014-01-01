@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project path="external/chromium_org" name="platform/external/chromium_org" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="external/chromium_org" name="CyanogenMod/android_external_chromium_org" />
+  <remove-project path="vendor/pac" name="android_vendor_pac" remote="pac" revision="pac-4.4" />
+  <project path="vendor/pac" name="TWINNFAMOUS/android_vendor_pac" remote="github" revision="PAC-4.4" />  
+</manifest>
+
+
+
+
+
+
+
+
